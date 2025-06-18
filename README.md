@@ -53,6 +53,9 @@ Perform sentiment classification using the following pipeline:
 - **Insights:**  
   - Majority of tweets are negative  
   - Misclassifications mostly happen between neutral and positive tweets
+ 
+  - ![Image](https://github.com/user-attachments/assets/9d784332-ad7a-4762-b0f6-e3fa765d7c31)
+  - ![Image](https://github.com/user-attachments/assets/78df002d-1695-4283-9758-5f21f511a173)
 
 ---
 
