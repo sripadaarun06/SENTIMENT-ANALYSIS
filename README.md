@@ -61,7 +61,7 @@ Perform sentiment classification using the following pipeline:
 1. Python 3.x
 2. pandas
 3. numpy
-4. 4. scikit-learn
+4. scikit-learn
 5. nltk
 6. seaborn
 7. matplotlib
