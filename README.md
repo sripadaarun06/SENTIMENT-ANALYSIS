@@ -56,6 +56,18 @@ Perform sentiment classification using the following pipeline:
 
 ---
 
+## Requirements
+
+1. Python 3.x
+2. pandas
+3. numpy
+4. 4. scikit-learn
+5. nltk
+6. seaborn
+7. matplotlib
+
+---
+
 ## How to Run
 
 1. Clone this repository  
