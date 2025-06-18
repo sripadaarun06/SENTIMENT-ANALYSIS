@@ -1,6 +1,16 @@
 # SENTIMENT-ANALYSIS
 This project performs sentiment analysis on airline-related tweets using NLP techniques. The notebook includes data cleaning, text preprocessing, TF-IDF vectorization, and model building using Logistic Regression. Results are evaluated using accuracy, classification report, and confusion matrix.
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: SRIPADA ARUN
+
+INTERN ID: CT08DF2529
+
+DOMAIN: Data Analytics
+
+MENTOR: NEELA SANTOSH
+
 
 # Sentiment Analysis on Airline Tweets
 
